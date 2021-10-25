@@ -1,0 +1,146 @@
+body{
+    font-family: 'Varela Round', sans-serif;
+}
+h1{
+    font-size: 60px;
+}
+p{
+    color: gray
+}
+.sec{
+    display: flex;
+}
+.skip{
+    color: rgb(235, 145, 62);
+}
+.rong{
+    color:rgb(77, 70, 70);
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+.pic{
+    width: 70%;
+    padding-top: 2%;
+}
+.pic img{
+    width: 75%;
+    
+}
+.button-link{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    border-radius: 20px;
+    color:white;
+    font-weight: 400;
+    
+
+}
+.pic-width img{
+    width: 50%;
+    
+}
+.pic-width{
+    padding-left: 10%;
+    padding-top:2%;
+
+}
+.top-banner{
+    background-image: url(images/shapes/7.png);
+}
+.majhe{
+    text-align:center;
+    padding-left: 30%;
+    padding-right: 30%;
+    margin-top: 5%;
+}
+.all{
+    display: flex;
+}
+.bread{
+
+    margin-left:5%;
+    margin-right:5%;
+    border-radius: 5%;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+.bread img{
+    width:85%;
+    padding: 30px 2px 1px 25px;
+
+
+}
+.pp{
+
+    padding:2px 2px 1px 25px;
+}
+.heading{
+
+    padding:30px 2px 1px 25px;
+}
+
+.box1{
+
+    margin-top: 5%;
+    padding-top: 10px;
+    padding-bottom:10px ;
+    box-shadow:  10px 1px 0px 0px rgb(0, 0.2, 0, 0);
+    background-color: white;
+ 
+}
+#box{
+    text-align:left;
+    padding-left:5%;
+    margin-left: 10%;
+    border-top-left-radius: 10%;
+    border-bottom-left-radius: 10%;
+    box-shadow:  10px 1px 0px 0px rgb(0, 0.2, 0, 0);
+}
+#box2{
+    text-align:center;
+    padding-left: 15%;
+    padding-right:10%;
+
+    box-shadow:  10px 1px 0px 0px rgb(0, 0.2, 0, 0);
+
+
+}
+#box3{
+    padding-right: 10%;
+    margin-right: 20%;
+    border-bottom-right-radius: 10%;
+    border-top-right-radius: 10%;
+    box-shadow:  10px 1px 0px 0px rgb(0, 0.2, 0, 0);
+
+
+}
+footer{
+    text-align:center;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    width:100%;
+    margin-top:5%;
+}
+footer p{
+    color:white;
+}
+
+
+.p-width{
+    width:70%;
+    margin-top: 5%;
+    padding-right: 10%;
+    padding-top: 2%;
+}
+.p-width p{
+    font-family: 'Besley', serif;
+    color:rgb(97, 91, 91);
+}
+
